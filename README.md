@@ -9,6 +9,6 @@ link to git [docs](https://git-scm.com/)
 
 ## why is github pages hidden in settings?  
 
-- because github waasnt designed around pages first  
+- because github wasn't designed around pages first  
 - because it complicated   
 
